@@ -5,7 +5,7 @@
 | E-mail | shinjungwoo506@gmail.com |
 | :----- | ------------------------ |
 
-| Details|      |
+| Details| https://www.notion.so/Who-am-I-f3f1d30234e04107998cb0326603e6e1 |
 | :----- | ---- |
 
 
