@@ -24,8 +24,8 @@ Verilog HDL
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINJUNGWOO&count_private=true&theme=prussian)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHINJUNGWOO&count_private=true&&theme=prussian)
+ -->
 
 
   
