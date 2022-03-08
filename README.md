@@ -2,7 +2,7 @@
 
 - **Hardware만 하지 마세요. Software에 양보 하세요.**
 
-| E-mail | shinjungwoo506@gmail.com |
+| E-mail | sinjungwoo506@gmail.com |
 | :----- | ------------------------ |
 
 | Details| https://www.notion.so/Who-am-I-f3f1d30234e04107998cb0326603e6e1 |
